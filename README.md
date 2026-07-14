@@ -150,8 +150,3 @@ src/
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！有任何建议或问题，请在 GitHub 上提出。
-
-## ⚖️ 开源协议
-
-本项目基于 MIT 协议开源。详情见 [LICENSE](./LICENSE) 文件。 (假设使用 MIT)
-```
